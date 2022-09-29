@@ -216,8 +216,8 @@ docker logs -f 9e54c
 ```
 > nifi需要重启才能完成从`lib`目录下加载nar，若是`extensions`，则无需进行重启。
 
-![使用截图-1](./template/1.pg)
-![使用截图-2](./template/2.pg)
+![使用截图-1](./template/1.png)
+![使用截图-2](./template/2.png)
 
 ## 常见bug
 ### Java Runtime only recognizes class file versions up to 52.0
